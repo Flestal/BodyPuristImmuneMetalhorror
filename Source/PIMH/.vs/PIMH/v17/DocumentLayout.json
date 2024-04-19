@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\PuristMetalHorrorImmune\\Source\\PIMH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5FFC-FF11-46D7-B7D3-7229CD9CE604}|PIMH.csproj|d:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\puristmetalhorrorimmune\\source\\pimh\\trygivejob_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5FFC-FF11-46D7-B7D3-7229CD9CE604}|PIMH.csproj|solutionrelative:trygivejob_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5FFC-FF11-46D7-B7D3-7229CD9CE604}|PIMH.csproj|D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\PuristMetalHorrorImmune\\Source\\PIMH\\pimh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5FFC-FF11-46D7-B7D3-7229CD9CE604}|PIMH.csproj|solutionrelative:pimh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 296,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PIMH.cs",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\PuristMetalHorrorImmune\\Source\\PIMH\\PIMH.cs",
+              "RelativeDocumentMoniker": "PIMH.cs",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\PuristMetalHorrorImmune\\Source\\PIMH\\PIMH.cs",
+              "RelativeToolTip": "PIMH.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T05:16:55.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TryGiveJob_Patch.cs",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\PuristMetalHorrorImmune\\Source\\PIMH\\TryGiveJob_Patch.cs",
+              "RelativeDocumentMoniker": "TryGiveJob_Patch.cs",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\PuristMetalHorrorImmune\\Source\\PIMH\\TryGiveJob_Patch.cs",
+              "RelativeToolTip": "TryGiveJob_Patch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T05:04:58.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

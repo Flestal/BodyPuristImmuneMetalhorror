@@ -1,0 +1,6 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\PuristMetalHorrorImmune\Assemblies\PIMH.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\PuristMetalHorrorImmune\Assemblies\PIMH.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\PuristMetalHorrorImmune\Source\PIMH\obj\Debug\PIMH.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\PuristMetalHorrorImmune\Source\PIMH\obj\Debug\PIMH.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\PuristMetalHorrorImmune\Source\PIMH\obj\Debug\PIMH.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\PuristMetalHorrorImmune\Source\PIMH\obj\Debug\PIMH.pdb
