@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\PuristMetalHorrorImmune\\Source\\PIMH\\",
+  "WorkspaceRootPath": "C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\BodyPuristImmuneMetalhorror\\Source\\PIMH\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B27E5FFC-FF11-46D7-B7D3-7229CD9CE604}|PIMH.csproj|d:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\puristmetalhorrorimmune\\source\\pimh\\trygivejob_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B27E5FFC-FF11-46D7-B7D3-7229CD9CE604}|PIMH.csproj|solutionrelative:trygivejob_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B27E5FFC-FF11-46D7-B7D3-7229CD9CE604}|PIMH.csproj|c:\\steam\\steamapps\\common\\rimworld\\mods\\bodypuristimmunemetalhorror\\source\\pimh\\metalhorrorutility_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5FFC-FF11-46D7-B7D3-7229CD9CE604}|PIMH.csproj|solutionrelative:metalhorrorutility_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B27E5FFC-FF11-46D7-B7D3-7229CD9CE604}|PIMH.csproj|D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\PuristMetalHorrorImmune\\Source\\PIMH\\pimh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B27E5FFC-FF11-46D7-B7D3-7229CD9CE604}|PIMH.csproj|C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\BodyPuristImmuneMetalhorror\\Source\\PIMH\\addinfectionvector_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5FFC-FF11-46D7-B7D3-7229CD9CE604}|PIMH.csproj|solutionrelative:addinfectionvector_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5FFC-FF11-46D7-B7D3-7229CD9CE604}|PIMH.csproj|C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\BodyPuristImmuneMetalhorror\\Source\\PIMH\\pimh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B27E5FFC-FF11-46D7-B7D3-7229CD9CE604}|PIMH.csproj|solutionrelative:pimh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,32 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 296,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MetalhorrorUtility_Patch.cs",
+              "DocumentMoniker": "C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\BodyPuristImmuneMetalhorror\\Source\\PIMH\\MetalhorrorUtility_Patch.cs",
+              "RelativeDocumentMoniker": "MetalhorrorUtility_Patch.cs",
+              "ToolTip": "C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\BodyPuristImmuneMetalhorror\\Source\\PIMH\\MetalhorrorUtility_Patch.cs",
+              "RelativeToolTip": "MetalhorrorUtility_Patch.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:35:25.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AddInfectionVector_Patch.cs",
+              "DocumentMoniker": "C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\BodyPuristImmuneMetalhorror\\Source\\PIMH\\AddInfectionVector_Patch.cs",
+              "RelativeDocumentMoniker": "AddInfectionVector_Patch.cs",
+              "ToolTip": "C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\BodyPuristImmuneMetalhorror\\Source\\PIMH\\AddInfectionVector_Patch.cs",
+              "RelativeToolTip": "AddInfectionVector_Patch.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T05:04:58.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PIMH.cs",
-              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\PuristMetalHorrorImmune\\Source\\PIMH\\PIMH.cs",
+              "DocumentMoniker": "C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\BodyPuristImmuneMetalhorror\\Source\\PIMH\\PIMH.cs",
               "RelativeDocumentMoniker": "PIMH.cs",
-              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\PuristMetalHorrorImmune\\Source\\PIMH\\PIMH.cs",
+              "ToolTip": "C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\BodyPuristImmuneMetalhorror\\Source\\PIMH\\PIMH.cs",
               "RelativeToolTip": "PIMH.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T05:16:55.799Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TryGiveJob_Patch.cs",
-              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\PuristMetalHorrorImmune\\Source\\PIMH\\TryGiveJob_Patch.cs",
-              "RelativeDocumentMoniker": "TryGiveJob_Patch.cs",
-              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\PuristMetalHorrorImmune\\Source\\PIMH\\TryGiveJob_Patch.cs",
-              "RelativeToolTip": "TryGiveJob_Patch.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T05:04:58.71Z",
-              "EditorCaption": ""
             }
           ]
         }
